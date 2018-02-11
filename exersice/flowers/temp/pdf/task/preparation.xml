@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\temp\pdf\task?><?workdir-uri file:/C:/Users/jeff.ruby/Desktop/DITA/exersice/flowers/temp/pdf/task/?><?path2project ..\?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_j34_2qq_5cb" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " class="- topic/topic task/task " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="task:1">
+    <title class="- topic/title " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="title:1">Garden Preparation</title>
+    <shortdesc class="- topic/shortdesc " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="shortdesc:1"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="taskbody:1">
+        <context class="- topic/section task/context " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="context:1">
+            <p class="- topic/p " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="p:1">An lisappreciation of the conditions under which bulbs grow in nature is of
+                considerable help in understanding their needs in cultivation, but is by no means
+                all-sufficient. When plants are grown away from their native homesand perhaps are
+                accommodated in pots indoors-they may respond to quite different soils,
+                temperatures, moisture conditions, etc., than those to which they are subjected in
+                the wild.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="steps:1">
+            <step class="- topic/li task/step " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="step:1">
+                <cmd class="- topic/ph task/cmd " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="cmd:1">Handle bulbs carefully. Any scarred or punctured bulb is more susceptible to
+                    decay or infestation.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="step:2">
+                <cmd class="- topic/ph task/cmd " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="cmd:2">Make sure that the <b class="+ topic/ph hi-d/b " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="b:1">soil</b> is the proper one. This might be hard to
+                    achieve, but generally an earth midway between sand and clay and containing a
+                    generous measure of organic matter is what most plants want.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="step:3">
+                <cmd class="- topic/ph task/cmd " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="cmd:3">All plants need <b class="+ topic/ph hi-d/b " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="b:2">watering</b>, but you should also provide good drainage. An
+                    overabundance of water around bulbs during the dormant period is particularly
+                    harmful.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="step:4">
+                <cmd class="- topic/ph task/cmd " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="cmd:4">Plants respond to fertile soil, but <b class="+ topic/ph hi-d/b " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="b:3">fertilizers</b> must not be used
+                    carelessly. Improper dosage can do more harm than good.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="step:5">
+                <cmd class="- topic/ph task/cmd " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="cmd:5">When dealing with<b class="+ topic/ph hi-d/b " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="b:4"> insects</b> and <b class="+ topic/ph hi-d/b " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita" xtrc="b:5">diseases</b>, proper diagnosis of the
+                    trouble is of primary importance.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

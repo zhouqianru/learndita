@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jzz_fsp_5cb">
+    <title>Pruning</title>
+    <shortdesc><?oxy_comment_start author="jeff.ruby" timestamp="20180209T144049+0800" comment="Break This paragraph down. Use &lt;p&gt; instead. "?>
+        <b>Pruning </b>is the process of removing certain above-ground elements from a plant;in
+        landscaping this process usually involves removal of diseased, non- productive, or otherwise
+        unwanted portions from a plant. In nature, certain meteorological conditions such as wind,
+        snow or seawater mist can conduct a when for natural pruning process. The purpose of
+        anthropomorphic pruning is to shape the plant by controlling or directing plant growth, to
+        maintain the health of the plant, or to increase the yield or quality of flowers and fruits.
+        In general the smaller the wound the less harm to the tree. <?oxy_comment_end?></shortdesc>
+    <taskbody>
+        <context>Follow these simple steps:</context>
+        <steps>
+            <step>
+                <cmd>Begin by cutting out all the dead branches.</cmd>
+            </step>
+            <step>
+                <cmd>Remove all tangled or crossed over branches. </cmd>
+                <info>This allows air to circulate and reduces bug and fungi infestation.</info>
+            </step>
+            <step>
+                <cmd>Take your time!</cmd>
+                <info>Work comfortably and do not make shortcuts when cutting stems. Use good
+                    quality, sharp tools.</info>
+            </step>
+            <step>
+                <cmd>Clean up the area. Burn all pest infested branches.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><map xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- map/map " ditaarch:DITAArchVersion="1.2" domains="(topic delay-d)                          (map mapgroup-d)                           (topic indexing-d)                          (map glossref-d)                          (topic hi-d)                           (topic ut-d)                           (topic hazard-d)                          (topic abbrev-d)                          (topic pr-d)                           (topic sw-d)                          (topic ui-d)                         " title="Growing Flowers" xtrc="map:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+ <title class="- topic/title " xtrc="title:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap">Flowers</title>
+ <topicref class="- map/topicref " first_topic_id="#unique_1" href="#unique_1" id="unique_1" ohref="topic/Introduction.xml" type="topic" xtrc="topicref:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle ">Introduction</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Introduction</linktext></topicmeta></topicref>
+ <topicref class="- map/topicref " first_topic_id="#unique_3" href="#unique_3" id="unique_3" ohref="concept/care%20and%20preparation.xml" type="concept" xtrc="topicref:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle ">Care and Preparation</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Care and Preparation</linktext></topicmeta><topicref class="- map/topicref " first_topic_id="#unique_4" href="#unique_4" id="unique_4" ohref="task/Pruning.xml" type="task" xtrc="topicref:3" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle ">Pruning</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Pruning</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><?oxy_comment_start author="jeff.ruby" timestamp="20180209T144049+0800" comment="Break This paragraph down. Use &lt;p&gt; instead. "?>         <b class="+ topic/ph hi-d/b " xtrc="b:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">Pruning </b>is the process of removing certain above-ground elements from a plant;in         landscaping this process usually involves removal of diseased, non- productive, or otherwise         unwanted portions from a plant. In nature, certain meteorological conditions such as wind,         snow or seawater mist can conduct a when for natural pruning process. The purpose of         anthropomorphic pruning is to shape the plant by controlling or directing plant growth, to         maintain the health of the plant, or to increase the yield or quality of flowers and fruits.         In general the smaller the wound the less harm to the tree. <?oxy_comment_end?></shortdesc></topicmeta></topicref><topicref class="- map/topicref " first_topic_id="#unique_5" href="#unique_5" id="unique_5" ohref="task/preparation.xml" type="task" xtrc="topicref:4" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle ">Garden Preparation</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Garden Preparation</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+ <topicref class="- map/topicref " first_topic_id="#unique_6" href="#unique_6" id="unique_6" ohref="topic/Flowers%20by%20Season.xml" type="topic" xtrc="topicref:5" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle ">Flowers by Season</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Flowers by Season</linktext></topicmeta><topicref class="- map/topicref " first_topic_id="#unique_7" href="#unique_7" id="unique_7" ohref="topic/Spring%20Flowers.xml" type="concept" xtrc="topicref:6" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle ">Spring Flowers</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Spring Flowers</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " first_topic_id="#unique_8" href="#unique_8" id="unique_8" ohref="concept/Iris.xml" type="concept" xtrc="topicref:7" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle ">Iris</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Iris</linktext></topicmeta></topicref></topicref></topicref>
+ <topichead class="+ map/topicref mapgroup-d/topichead " id="d2e74" navtitle="Glossary" type="topic" xtrc="topichead:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap"><topicref class="- map/topicref " first_topic_id="#unique_10" href="#unique_10" id="unique_10" navtitle="Genus" ohref="concept/Glossary/genus.xml" type="topic" xtrc="topicref:8" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle ">Genus</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Genus</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " first_topic_id="#unique_11" href="#unique_11" id="unique_11" navtitle="Pollination" ohref="concept/Glossary/pollination.xml" type="topic" xtrc="topicref:9" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\flowers.ditamap"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle ">pollination</navtitle><?ditaot gentext?><linktext class="- map/linktext ">pollination</linktext></topicmeta></topicref></topichead>
+</opentopic:map><topic class="- topic/topic " ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " id="unique_1" oid="topic_a4m_vhp_5cb" xml:lang="en" xtrc="topic:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Introduction.dita">
+  <title class="- topic/title " xtrc="title:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Introduction.dita">Introduction</title>
+  <body class="- topic/body " xtrc="body:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Introduction.dita">
+    <p class="- topic/p " xtrc="p:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Introduction.dita">With just a little bit of care and preparation, any flowers garden can be a vibrantly colored
+      environment. Flowers can be selected for specific blooming seasons, colors and shapes. Both
+      annual and<xref class="- topic/xref " href="#unique_2" ohref="topic\perennial.xml" xtrc="xref:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Introduction.dita"><?ditaot usertext?>perennial-TEST</xref>flower gardens can be planted depending on climate and specific needs. </p>
+
+    
+  </body>
+</topic><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " id="unique_3" oid="concept_my4_w4p_5cb" xml:lang="en" xtrc="concept:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">
+ <title class="- topic/title " xtrc="title:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">Care and Preparation</title>
+
+ <conbody class="- topic/body  concept/conbody " xtrc="conbody:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">
+  <p class="- topic/p " xtrc="p:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">When caring for your flower garden you want to feed your plants properly, control pests
+   and weeds. Good soil is a must to successful gardening, landscaping, and healthy flowers. You have
+   to balance the soil structure with nutrients and regulate the pH to cover your plants' needs.
+   <?oxy_comment_start author="jeff.ruby" timestamp="20180209T133508+0800" comment="Let&apos;s add content to Frezie."?>And
+   above all, <?oxy_comment_end?>remember that many flower gardens fail because they just don't get
+   enough of your attention.</p>
+  <p class="- topic/p " xtrc="p:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">
+   <table class="- topic/table " frame="all" id="unique_3_Connect_42_table_h4q_n2q_5cb" xtrc="table:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">
+    <title class="- topic/title " xtrc="title:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">Flowers</title>
+    <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">
+     <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="97.2pt" xtrc="colspec:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita"/>
+     <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="101.4pt" xtrc="colspec:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita"/>
+     <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="200px" xtrc="colspec:3" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita"/>
+     <thead class="- topic/thead " xtrc="thead:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">
+      <row class="- topic/row " xtrc="row:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">
+       <entry class="- topic/entry " colname="col1" xtrc="entry:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">Flower</entry>
+       <entry class="- topic/entry " colname="col2" xtrc="entry:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">Type</entry>
+       <entry class="- topic/entry " colname="col3" xtrc="entry:3" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">Soil</entry>
+      </row>
+     </thead>
+     <tbody class="- topic/tbody " xtrc="tbody:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">
+      <row class="- topic/row " xtrc="row:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">
+       <entry class="- topic/entry " colname="col1" xtrc="entry:4" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">Chrysanthemum</entry>
+       <entry class="- topic/entry " colname="col2" xtrc="entry:5" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">perennial</entry>
+       <entry class="- topic/entry " colname="col3" xtrc="entry:6" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">well drained</entry>
+      </row>
+      <row class="- topic/row " xtrc="row:3" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">
+       <entry class="- topic/entry " colname="col1" xtrc="entry:7" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">Gardenia</entry>
+       <entry class="- topic/entry " colname="col2" xtrc="entry:8" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">perennial</entry>
+       <entry class="- topic/entry " colname="col3" xtrc="entry:9" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">acidic</entry>
+      </row>
+      <row class="- topic/row " xtrc="row:4" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">
+       <entry class="- topic/entry " colname="col1" xtrc="entry:10" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">Gerbera</entry>
+       <entry class="- topic/entry " colname="col2" xtrc="entry:11" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">annual</entry>
+       <entry class="- topic/entry " colname="col3" xtrc="entry:12" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\care and preparation.dita">sandy,well-drained</entry>
+      </row>
+     </tbody>
+    </tgroup>
+   </table>
+  </p>
+ </conbody>
+<task class="- topic/topic task/task " ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " id="unique_4" oid="task_jzz_fsp_5cb" xml:lang="en" xtrc="task:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">
+    <title class="- topic/title " xtrc="title:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">Pruning</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita"><?oxy_comment_start author="jeff.ruby" timestamp="20180209T144049+0800" comment="Break This paragraph down. Use &lt;p&gt; instead. "?>
+        <b class="+ topic/ph hi-d/b " xtrc="b:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">Pruning </b>is the process of removing certain above-ground elements from a plant;in
+        landscaping this process usually involves removal of diseased, non- productive, or otherwise
+        unwanted portions from a plant. In nature, certain meteorological conditions such as wind,
+        snow or seawater mist can conduct a when for natural pruning process. The purpose of
+        anthropomorphic pruning is to shape the plant by controlling or directing plant growth, to
+        maintain the health of the plant, or to increase the yield or quality of flowers and fruits.
+        In general the smaller the wound the less harm to the tree. <?oxy_comment_end?></shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">
+        <context class="- topic/section task/context " xtrc="context:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">Follow these simple steps:</context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">
+            <step class="- topic/li task/step " xtrc="step:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">Begin by cutting out all the dead branches.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">Remove all tangled or crossed over branches. </cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">This allows air to circulate and reduces bug and fungi infestation.</info>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">Take your time!</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">Work comfortably and do not make shortcuts when cutting stems. Use good
+                    quality, sharp tools.</info>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita">Clean up the area. Burn all pest infested branches.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " id="unique_5" oid="task_j34_2qq_5cb" xml:lang="en" xtrc="task:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">
+    <title class="- topic/title " xtrc="title:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">Garden Preparation</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita"/>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">
+        <context class="- topic/section task/context " xtrc="context:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">
+            <p class="- topic/p " xtrc="p:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">An lisappreciation of the conditions under which bulbs grow in nature is of
+                considerable help in understanding their needs in cultivation, but is by no means
+                all-sufficient. When plants are grown away from their native homesand perhaps are
+                accommodated in pots indoors-they may respond to quite different soils,
+                temperatures, moisture conditions, etc., than those to which they are subjected in
+                the wild.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">
+            <step class="- topic/li task/step " xtrc="step:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">Handle bulbs carefully. Any scarred or punctured bulb is more susceptible to
+                    decay or infestation.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">Make sure that the <b class="+ topic/ph hi-d/b " xtrc="b:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">soil</b> is the proper one. This might be hard to
+                    achieve, but generally an earth midway between sand and clay and containing a
+                    generous measure of organic matter is what most plants want.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">All plants need <b class="+ topic/ph hi-d/b " xtrc="b:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">watering</b>, but you should also provide good drainage. An
+                    overabundance of water around bulbs during the dormant period is particularly
+                    harmful.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">Plants respond to fertile soil, but <b class="+ topic/ph hi-d/b " xtrc="b:3" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">fertilizers</b> must not be used
+                    carelessly. Improper dosage can do more harm than good.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">When dealing with<b class="+ topic/ph hi-d/b " xtrc="b:4" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita"> insects</b> and <b class="+ topic/ph hi-d/b " xtrc="b:5" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\preparation.dita">diseases</b>, proper diagnosis of the
+                    trouble is of primary importance.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><topic class="- topic/topic " ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " id="unique_6" oid="topic_lkt_pgr_5cb" xml:lang="en" xtrc="topic:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Flowers by Season.dita">
+  <title class="- topic/title " xtrc="title:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Flowers by Season.dita">Flowers by Season</title>
+  <body class="- topic/body " xtrc="body:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Flowers by Season.dita">
+    <p class="- topic/p " xtrc="p:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Flowers by Season.dita">The various climatic changes that occur in cyclic pattern are termed as 'Seasons'. There are
+      four general seasons occurring on Earth - Spring, Summer, Autumn and Winter. Flowers and
+      seasons are intimately bound to each other. When Most of the flowers are season-specific.
+      However, some flowers are found throughout the year, not particularly affected by changing
+      seasons.</p>
+  </body>
+<concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " id="unique_7" oid="concept_kcx_mgr_5cb" xml:lang="en" xtrc="concept:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Spring Flowers.dita">
+ <title class="- topic/title " xtrc="title:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Spring Flowers.dita">Spring Flowers</title>
+ <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Spring Flowers.dita"/>
+ <conbody class="- topic/body  concept/conbody " xtrc="conbody:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Spring Flowers.dita">
+  <p class="- topic/p " xtrc="p:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Spring Flowers.dita">Spring Time, the time of growth and renewal of new plant and animal life. Spring comes at
+   different times in the North and South Hemispheres. Spring time in the Northern hemisphere is
+   between March - May, and between September - November in the Southern hemisphere. Most flowering
+   plants bloom during spring time. Therefore, flowers that bloom only during spring, Spring
+   Flowers, bloom at different times in the two hemispheres. </p>
+  <p class="- topic/p " xtrc="p:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Spring Flowers.dita">Some of the flowers blooming in Spring are: Agapanthus, Amaryllis, Anemone, Apple blossom, Bird
+   of Paradise, Brodea, Calla lily, Cherry Blossom, Corn flower, Cosmose, Dahlia, Delphinium,
+   Delwood, Forsythia, Freesia, Gardenia, Heather, Helleborus, Hollyhock, Hyacinth, Larkspur, Casa
+   Blanca Lily, Gloriosa Lily, Stargazer, Liatrus, Lilac, Lisianthus, Narcissus, Orchid, Peach
+   blossom, Peony, Phlox, Poppy, Protea, Pussy willow, Ranunculus, Rose, Seeded Eucalyptus,
+   Solidago, Statice, Stephanotis, Stock, Sweet Pea, Tulip, Viburnum, Wax flower, Zinnia.</p>
+ </conbody>
+<concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " id="unique_8" oid="concept_d11_2hr_5cb" xml:lang="en" xtrc="concept:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">
+ <title class="- topic/title " xtrc="title:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">Iris</title>
+
+ <conbody class="- topic/body  concept/conbody " xtrc="conbody:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">
+  <p class="- topic/p " xtrc="p:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita"><i class="+ topic/ph hi-d/i " xtrc="i:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">From Wikipedia, the free encyclopedia.</i></p>
+  <p class="- topic/p " xtrc="p:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">Iris is a <xref class="- topic/xref " href="#unique_9" ohref="concept\genus.xml" xtrc="xref:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita"><?ditaot usertext?>genus</xref> of between 200-300 species of flowering plants
+   with showy flowers. It takes its name from the Greek word for a rainbow, referring to the wide
+   variety of flower colors found among the many species. As well as being the scientific name, iris
+   is also very widely used as a common name; for one thing, it refers to all Iris species, but some
+   plants called thus belong to closely related genera. In North America, a common name for irises
+   is flags, while the subgenus Scorpiris is widely known as junos, particularly in horticulture</p>
+  <p class="- topic/p " xtrc="p:3" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">.<image class="- topic/image " href="images\Iris_sanguinea.jpg" id="unique_8_Connect_42_image_dwl_5hr_5cb" placement="inline" scale="50" xtrc="image:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita"/></p>
+  <p class="- topic/p " xtrc="p:4" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">The <xref class="- topic/xref " href="#unique_10" ohref="concept/Glossary/genus.xml#concept_vcg_wkr_5cb" type="concept" xtrc="xref:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita"><?ditaot gentext?>Genus<?ditaot genshortdesc?><desc class="- topic/desc "/></xref>genus is widely distributed
+   throughout the north temperate zone. Their habitats are considerably varied, ranging from cold
+   and mountain regions to the grassy slopes, meadowlands and riverbanks of Europe, the Middle East
+   and northern Africa, Asia and across North America.</p>
+  <p class="- topic/p " xtrc="p:5" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">The inflorescences are fan-shaped and contain one or more symmetrical six-lobed flowers. These
+   grow on a pedicel or lack a footstalk. The three sepals, which are spreading or droop downwards,
+   are referred to as "falls". They expand from their narrow base, which in some of the rhizomatous
+   irises has a "beard" (a tuft of short upright extensions growing in its midline), into a broader
+   expanded portion ("limb"), often adorned with veining, lines or dots. The three, sometimes
+   reduced, petals stand upright, partly behind the sepal bases. They are called "standards". Some
+   smaller iris species have all six lobes pointing straight outwards, but generally, limb and
+   standards differ markedly in appearance. They are united at their base into a floral tube that
+   lies above the ovary. The styles divide towards the apex into petaloid branches; this is
+   significant in <xref class="- topic/xref " href="#unique_11" ohref="concept/Glossary/pollination.xml#concept_h4b_1lr_5cb" type="concept" xtrc="xref:3" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita"><?ditaot usertext?>pollination</xref>
+   .</p>
+
+  <p class="- topic/p " xtrc="p:6" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">The iris flower is of special interest as an example of the relation between flowering plants
+   and pollinating insects. The shape of the flower and the position of the pollen-receiving and
+   stigmatic surfaces on the outer petals form a landing-stage for a flying insect, which in probing
+   the perianth for nectar, will first come in contact of perianth, then | Flowers by Season | 7
+   with the stigmatic stamens in one whorled surface which is borne on an ovary formed of three
+   carpels. The shelf-like transverse projection on the inner whorled underside of the stamens is
+   beneath the over-arching style arm below the stigma, so that the insect comes in contact with its
+   pollen-covered surface only after passing the stigma; in backing out of the flower it will come
+   in contact only with the non-receptive lower face of the stigma. Thus, an insect bearing pollen
+   from one flower will, in entering a second, deposit the pollen on the stigma; in backing out of a
+   flower, the pollen which it bears will not be rubbed off on the stigma of the same flower.</p>
+  <section class="- topic/section " xtrc="section:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">
+   <title class="- topic/title " xtrc="title:2" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">Use</title>
+   <p class="- topic/p " xtrc="p:7" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">Irises are extensively grown as ornamental plants in home and botanical gardens. Presby
+    Memorial Iris Gardens in New Jersey, for example, is a living iris museum with over 10,000
+    plants, while in Europe the most famous iris garden is arguably the Giardino dell'Iris in
+    Florence (Italy) which every year hosts one of the most famous iris breeders' competitions in
+    the world. </p>
+   <p class="- topic/p " xtrc="p:8" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Iris.dita">Some rhizomes are traded as orris root and are used in perfume and medicine, though more
+    common in ancient times than today. Today Iris essential oil (absolute) from flowers are
+    sometimes used in aromatherapy as sedative medicines. The dried rhizomes are also given whole to
+    babies to help in teething. Some gin brands use orris root and sometimes iris flowers for flavor
+    and color.</p>
+  </section>
+ </conbody>
+</concept></concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/topic " id="d2e74"><title class=" topic/title ">Glossary</title><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " id="unique_10" oid="concept_vcg_wkr_5cb" xml:lang="en" xtrc="concept:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\genus.dita">
+ <title class="- topic/title " xtrc="title:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\genus.dita">Genus</title>
+ <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\genus.dita"/>
+ <conbody class="- topic/body  concept/conbody " xtrc="conbody:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\genus.dita">
+  <p class="- topic/p " xtrc="p:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\genus.dita">A low-level taxonomic rank used in the classification of living and fossil organisms. Other
+   well-known taxonomic ranks are domain, kingdom, phylum, class, order, family, and species, with
+   genus fitting between family and species. The scientific name of a genus may be called the
+   generic name: it is alway capitalized.</p>
+ </conbody>
+</concept><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " id="unique_11" oid="concept_h4b_1lr_5cb" xml:lang="en" xtrc="concept:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\pollination.dita">
+ <title class="- topic/title " xtrc="title:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\pollination.dita">pollination</title>
+ <conbody class="- topic/body  concept/conbody " xtrc="conbody:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\pollination.dita">
+  <p class="- topic/p " xtrc="p:1" xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\pollination.dita">Pollination is the process by which pollen is transferred in plants, thereby enabling
+   fertilisation and sexual reproduction. Pollination is a necessary step in the reproduction of
+   flowering plants, resulting in the production of offsprings that are genetically diverse.</p>
+ </conbody>
+</concept></topic><opentopic-index:index.groups/></map>

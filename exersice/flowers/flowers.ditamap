@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="Growing Flowers" >
+ <title>Flowers</title>
+ <topicref href="topic/Introduction.dita"/>
+ <topicref href="concept/care%20and%20preparation.dita">
+  <topicref href="task/Pruning.dita"/>
+  <topicref href="task/preparation.dita"/>
+ </topicref>
+ <topicref href="topic/Flowers%20by%20Season.dita">
+  <topicref href="topic/Spring%20Flowers.dita">
+   <topicref href="concept/Iris.dita"/>
+  </topicref>
+ </topicref>
+ <topichead navtitle="Glossary" type="topic">
+  <topicref href="concept/genus.dita" navtitle="Genus"/>
+  <topicref href="concept/pollination.dita" navtitle="WC"/>
+ </topichead>
+</map>

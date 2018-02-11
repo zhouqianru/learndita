@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\temp\pdf\topic?><?workdir-uri file:/C:/Users/jeff.ruby/Desktop/DITA/exersice/flowers/temp/pdf/topic/?><?path2project ..\?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_a4m_vhp_5cb" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Introduction.dita" xtrc="topic:1">
+  <title class="- topic/title " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Introduction.dita" xtrc="title:1">Introduction</title>
+  <body class="- topic/body " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Introduction.dita" xtrc="body:1">
+    <p class="- topic/p " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Introduction.dita" xtrc="p:1">With just a little bit of care and preparation, any flowers garden can be a vibrantly colored
+      environment. Flowers can be selected for specific blooming seasons, colors and shapes. Both
+      annual and<xref href="perennial.xml" class="- topic/xref " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\topic\Introduction.dita" xtrc="xref:1"><?ditaot usertext?>perennial-TEST</xref>flower gardens can be planted depending on climate and specific needs. </p>
+
+    
+  </body>
+</topic>

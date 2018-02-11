@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\temp\pdf\task?><?workdir-uri file:/C:/Users/jeff.ruby/Desktop/DITA/exersice/flowers/temp/pdf/task/?><?path2project ..\?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="task_jzz_fsp_5cb" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    " class="- topic/topic task/task " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="task:1">
+    <title class="- topic/title " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="title:1">Pruning</title>
+    <shortdesc class="- topic/shortdesc " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="shortdesc:1"><?oxy_comment_start author="jeff.ruby" timestamp="20180209T144049+0800" comment="Break This paragraph down. Use &lt;p&gt; instead. "?>
+        <b class="+ topic/ph hi-d/b " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="b:1">Pruning </b>is the process of removing certain above-ground elements from a plant;in
+        landscaping this process usually involves removal of diseased, non- productive, or otherwise
+        unwanted portions from a plant. In nature, certain meteorological conditions such as wind,
+        snow or seawater mist can conduct a when for natural pruning process. The purpose of
+        anthropomorphic pruning is to shape the plant by controlling or directing plant growth, to
+        maintain the health of the plant, or to increase the yield or quality of flowers and fruits.
+        In general the smaller the wound the less harm to the tree. <?oxy_comment_end?></shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="taskbody:1">
+        <context class="- topic/section task/context " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="context:1">Follow these simple steps:</context>
+        <steps class="- topic/ol task/steps " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="steps:1">
+            <step class="- topic/li task/step " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="step:1">
+                <cmd class="- topic/ph task/cmd " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="cmd:1">Begin by cutting out all the dead branches.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="step:2">
+                <cmd class="- topic/ph task/cmd " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="cmd:2">Remove all tangled or crossed over branches. </cmd>
+                <info class="- topic/itemgroup task/info " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="info:1">This allows air to circulate and reduces bug and fungi infestation.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="step:3">
+                <cmd class="- topic/ph task/cmd " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="cmd:3">Take your time!</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="info:2">Work comfortably and do not make shortcuts when cutting stems. Use good
+                    quality, sharp tools.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="step:4">
+                <cmd class="- topic/ph task/cmd " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\task\Pruning.dita" xtrc="cmd:4">Clean up the area. Burn all pest infested branches.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

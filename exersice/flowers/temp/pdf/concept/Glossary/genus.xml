@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\temp\pdf\concept\Glossary?><?workdir-uri file:/C:/Users/jeff.ruby/Desktop/DITA/exersice/flowers/temp/pdf/concept/Glossary/?><?path2project ..\..\?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_vcg_wkr_5cb" ditaarch:DITAArchVersion="1.2" domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    " class="- topic/topic concept/concept " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\genus.dita" xtrc="concept:1">
+ <title class="- topic/title " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\genus.dita" xtrc="title:1">Genus</title>
+ <shortdesc class="- topic/shortdesc " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\genus.dita" xtrc="shortdesc:1"/>
+ <conbody class="- topic/body  concept/conbody " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\genus.dita" xtrc="conbody:1">
+  <p class="- topic/p " xtrf="C:\Users\jeff.ruby\Desktop\DITA\exersice\flowers\concept\Glossary\genus.dita" xtrc="p:1">A low-level taxonomic rank used in the classification of living and fossil organisms. Other
+   well-known taxonomic ranks are domain, kingdom, phylum, class, order, family, and species, with
+   genus fitting between family and species. The scientific name of a genus may be called the
+   generic name: it is alway capitalized.</p>
+ </conbody>
+</concept>
